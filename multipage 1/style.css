@@ -1,0 +1,280 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:black;
+}
+
+.topimg{
+    margin-left: 300px;
+    /* margin-bottom: 100px; */
+
+}
+.navigation_bar ul {
+    display: flex;
+    align-items: center;
+    margin-left: 700px;
+}
+
+.navigation_bar ul li{
+    margin-left: 25px;
+    margin-bottom: px;
+    font-weight: 900;
+
+}
+.navigation_bar {
+    position: absolute;
+    top: 0;
+    padding: 10px;
+    margin-bottom: 400px;
+}
+
+.shop{
+    margin-left: 1100px;
+    position: absolute;
+    top: 26px;
+    height: 30px;
+    width: 75px;
+    align-items: center;
+    border-radius: 8px;
+}
+.add {
+    margin-left: 660px;
+    position: absolute;
+    top: 478px;
+    height: 40px;
+    width:199px ;
+    border-radius: 10px;
+
+}
+
+.add span{
+    margin-left: 49px;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    font-weight: 50;
+}
+ .sp{
+   margin-left: 15px;
+   margin-top: 6px;
+}
+
+.shop div{
+    margin-left: 19px;
+    margin-top: 4px;
+
+}
+
+.logo{
+    position: absolute;
+    top: 80px;
+    margin-left: 100px;
+
+}
+
+.on_ear{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 120px;
+    margin-left: 650px;
+}
+.mid1{
+    /* display: flex; */
+    align-items: center;
+    margin-left: 630px;
+    top: 190px;
+    position: absolute;
+
+}
+.mid1 h1{
+    /* display: flex; */
+    align-items: center;
+    font-size: 50px;
+
+}
+.icons ul{
+align-items: center;
+display: flex;
+margin-left: 200px;
+margin-top: 150px;
+}
+
+.icons ul li{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.specs{
+    align-items: center;
+    display: flex;
+    margin-top: 80px;
+    margin-left: 500px;
+}
+
+.spec_img{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+.spc li {
+   margin-bottom: 30px;
+
+}
+
+.connection{
+    margin-left: 350px;
+    /* margin-bottom: 870px; */
+}
+.connection span {
+    margin-left: 350px;
+
+}
+.connection h9 {
+    margin-left: 350px;
+}
+
+.battery{
+    margin-left: 300px;
+}
+.battery span {
+    margin-left: 300px;
+
+}
+.battery h9 {
+    margin-left: 300px;
+}
+
+.load{
+    margin-left: 300px;
+}
+.load span {
+    margin-left: 300px;
+
+}
+.load h9 {
+    margin-left: 300px;
+}
+
+.micro{
+    margin-left: 350px;
+}
+.micro span {
+    margin-left: 350px;
+
+}
+.micro h9 {
+    margin-left: 350px;
+}
+.case{
+    margin-top: 90px;
+}
+
+ .lg {
+    align-items: center;
+    margin-left: 500px;
+    /* margin-bottom: 300px; */
+    
+}
+ .cimg{
+    margin-left: 300px;
+    /* margin-top: 190px; */
+    padding: 60px;
+}
+
+.case h5{
+    margin-left: 700px;
+    position: absolute;
+    top: 1700px;
+}
+
+.info{
+   margin-left: 700px;
+   position: absolute;
+   top: 1890px;
+   height: 40px;
+   width: 140px;
+   border-radius: 10px;
+  
+}
+
+.info span{
+    margin-left: 55px;
+    position: absolute;
+    top: 11px;
+}
+
+.grp{
+    margin-left: 720px;
+    position: absolute;
+    top: 1898px;
+
+}
+
+.discount{
+    align-items: center;
+    margin-left: 140px;
+    width: 900px;
+    height: 330px;
+    border-radius: 20px;
+}
+
+.discount h1{
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 100px;
+    padding: 90px;
+    font-size: 20px;
+}
+
+.discount h5{
+    margin-left: 170px;
+   position: absolute;
+   top: 2260px;
+   font-size: 14px;
+}
+
+.off{
+    margin-left: 600px;
+    position: absolute;
+    top: 2180px;
+}
+
+.buy_now{
+    margin-left: 320px;
+    height: 35px;
+    width: 120px;
+    border-radius: 10px;
+    position: absolute;
+    top: 2340px;
+    text-align: center ;
+    padding: 2px;
+   /* display: block; */
+   /* display: grid; */
+   /* position: absolute; */
+}
+
+.buy_now div{
+    margin-left: 35px;
+    margin-top: 5px;
+}
+
+.sb{
+    margin-left: 340px;
+    position: absolute;
+    top: 2345px;
+    font-size: medium;
+}
+
+.chooselogo{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.black{
+    margin-left: 100px;
+}
+
+
+
+
